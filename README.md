@@ -16,5 +16,9 @@ Only display proof up to a depth of `n` nodes :
 
 Only display proof up to `n` applications of rules :
 <br>
-`main.py -file 436.md -nb-rules` n
+`main.py -file 436.md -nb-rules n`
+
+Display elements of the proof : Only display proof up to `n` applications of rules :
+<br>
+`main.py -file 436.md --elements`
 
